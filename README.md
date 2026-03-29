@@ -1,76 +1,61 @@
 # Tyler Chewning Portfolio
 
-A modern, responsive personal portfolio website showcasing Tyler Chewning's background, selected projects, and contact information.
+Professional portfolio website for **Tyler Chewning**, an Information Security professional with deep experience in IT risk management, systems security, compliance auditing, and secure enterprise operations.
 
-## Project Overview
+## Objective
 
-This repository contains a static portfolio site originally started as a Coursera web development exercise and later refactored into a cleaner, more professional presentation. The site highlights an Information Security learning path while keeping the UI simple, accessible, and mobile-friendly.
+Information Security professional with extensive experience in IT risk management, systems security, and compliance auditing. Proven track record of improving security protocols and reducing vulnerabilities across global organizations.
 
-## Features
+- **Clearance Level:** Top Secret SCI
 
-- **Responsive landing page** with a hero section, clear calls to action, and adaptive layout.
-- **Sticky top navigation** with quick links to About, Projects, Contact, and Resume.
-- **Project showcase cards** for featured work and learning efforts.
-- **Contact section** with direct email and GitHub profile links.
-- **Accessibility-conscious structure**, including semantic HTML, skip link support, and readable color contrast.
-- **Dedicated resume page** linked from the main portfolio.
+## Website Contents
 
-## Technologies Used
+This repository contains:
 
-- **HTML5** for semantic content structure
-- **CSS3** for layout, theming, responsiveness, and visual styling
-- **Git & GitHub** for version control and hosting workflow
-- **GitHub Pages** for deployment
+- `index.html` — public-facing portfolio website
+- `resume.html` — full resume and experience details
+- `css/master.css` — shared styles
+- `images/` — profile and banner assets
 
-## Screenshots
+## Career Snapshot
 
-> Replace these placeholders with screenshots from your deployed site as it evolves.
+- **U.S. Department of State (CGFS) — IT Specialist (INFOSEC), 2021–Present**
+  - Improved USAID application turnover efficiency by **55%** through secure systems integration.
+  - Led security evaluations across **30+ systems** using NIST 800-53 controls.
+  - Identified/resolved **50+ compliance gaps**, contributing to a **35% improvement** in audit scores.
+  - Streamlined IAM operations supporting **850+ users** across Charleston, Bangkok, and Paris.
+- **Haynes Inc. (CGFS) — Information Security Analyst, 2019–2021**
+  - Managed access/compliance processes for **35+ AIS** and **800+ users**.
+  - Reduced unauthorized access incidents by **30%** via policy and control improvements.
+- **Haynes Inc. (CGFS) — Management Analyst, 2012–2019**
+  - Managed telecom/mobile operations and large-scale IT asset accountability.
+  - Served as principal IT Asset Management Officer for **6,400+ items** totaling **$20M+**.
 
-### Home / Hero Section
-![Portfolio home hero](images/banner.jpg)
+## Core Skills
 
-### Profile / Headshot Block
-![Profile headshot](images/headshot.jpg)
+- Information Assurance (NIST 800-53, FISMA-aligned operations)
+- Access Management & PKI/LRA operations
+- CIRT incident response coordination
+- Security tooling: Splunk, Nessus, Spyrus, IronKey, E-Plex
+- Automation: PowerShell, PowerApps, Power BI, Power Automate
+- Platforms: Windows Server, SQL Server, SharePoint, ServiceNow
 
-### Suggested future screenshot paths
-- `images/screenshots/home-desktop.png`
-- `images/screenshots/home-mobile.png`
-- `images/screenshots/projects-section.png`
+## Education & Certifications
 
-## Deployment Instructions
+- **B.S. Economics**, College of Charleston (May 2005)
+- **CompTIA Security+ CE** (May 2020 – May 2026)
+- **ServiceNow Certified System Administrator**
+- **CISSP** (In Progress)
 
-This project is designed for GitHub Pages static hosting.
+## Local Preview
 
-1. **Clone the repository**
-   ```bash
-   git clone https://github.com/thchewningcofc/thchewningcofc.coursera.github.io.git
-   cd thchewningcofc.coursera.github.io
-   ```
-2. **Preview locally**
-   - Open `index.html` directly in your browser, or
-   - Use a local static server (recommended), for example:
-     ```bash
-     python3 -m http.server 8000
-     ```
-     Then visit `http://localhost:8000`.
-3. **Deploy via GitHub Pages**
-   - Push changes to the `main` branch.
-   - In GitHub: **Settings → Pages**.
-   - Set **Source** to deploy from `main` branch (root).
-   - Save and wait for the Pages build to complete.
-4. **Verify deployment**
-   - Visit your published URL (for user/organization pages, this is usually `https://<username>.github.io/`).
+```bash
+python3 -m http.server 8000
+```
 
-## Future Improvements
+Then open `http://localhost:8000`.
 
-- Add a downloadable PDF version of the resume.
-- Introduce a dedicated projects detail page with screenshots and outcomes.
-- Add a contact form with spam protection.
-- Improve SEO metadata and Open Graph sharing cards.
-- Add light/dark theme toggle.
-- Expand accessibility testing (keyboard flows, ARIA landmarks, screen reader audit).
-- Integrate CI checks (e.g., HTML/CSS linting) on pull requests.
+## Contact
 
----
-
-If you'd like, you can also add a **Live Demo** link near the top of this README once GitHub Pages is fully configured.
+- **Email:** [tylerharrisonchewning@gmail.com](mailto:tylerharrisonchewning@gmail.com)
+- **GitHub:** [github.com/thchewningcofc](https://github.com/thchewningcofc)
